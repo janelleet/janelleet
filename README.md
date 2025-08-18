@@ -31,7 +31,6 @@
 
 ### **Tools & Platforms**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -41,21 +40,21 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Infrastructure Defense in a Virtualized Environment** | Hardening & penetration testing of a Red Hat Linux server | RHEL, Apache, MariaDB, PHP |
-| **eCommerce Performance Monitoring Audit** | SQL-based performance analysis of an online store | MariaDB, SQL |
-| **Security Indicators & Google Chronicle SIEM Integration** | Data pipeline for security analytics | Python, BigQuery, Chronicle SIEM |
+| **Brutal Force** | The importance of creating a password with unique characters | Python, VSC |
+| **Password Generator** | Presents any unique passwords to the user with any selected option. | Java Script, Cascading Style Sheets (CSS), HTML |
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/tenoriojan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:janelle.tenorio12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/janelleet">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -63,5 +62,5 @@
 ---
 
 <p align="center">
-  <i>💡 Always learning, always growing — looking forward to making an impact in IT & Cybersecurity!</i>
+  <i>💡 Always learning, always growing. </i>
 </p>
