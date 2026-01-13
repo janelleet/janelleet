@@ -2,18 +2,17 @@
 <h1 align="center">Hi, I'm Janelle 👋</h1>
 
 <p align="center">
-  🎓 Recent IT Graduate | 💻 Cybersecurity & Data Analytics Enthusiast | 🌟 Open to Work
+  🎓 IT Graduate | 💻 Cybersecurity & Data Analytics Enthusiast | 🌟 Open to Work
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Bachelor’s in IT – Concentration in Cyber Operations Security** (Class of 2025)
-- 🔍 Passionate about **Cybersecurity**, **Data Analytics**, and **IT Infrastructure**
-- 🛠️ Experienced in **Red Hat Linux, Apache, MariaDB, PHP, SQL, Google Workspace Administration**
-- 📊 Interested in **security investigations, data-driven problem solving, and IT support**
-- 🌱 Currently studying for **CompTIA Security+** and **Network+** certifications
+- 🎓 **Bachelor’s in IT – Concentration in Cyber Operations Security** 
+- 🔍 Passionate about **SOC Analyst**, **Cybersecurity**, and **IT Support**
+- 📊 Interested in **security investigations, data-driven problem solving, and SOC**
+- 🌱 Currently wokring on **TryHackMe - SOC** and **Network+** certification
 
 ---
 
