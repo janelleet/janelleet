@@ -12,7 +12,7 @@
 - 🎓 **Bachelor’s in IT – Concentration in Cyber Operations Security** 
 - 🔍 Passionate about **SOC Analyst**, **Cybersecurity**, and **IT Support**
 - 📊 Interested in **security investigations, data-driven problem solving, and SOC**
-- 🌱 Currently wokring on **TryHackMe - SOC** and **Network+** certification
+- 🌱 Currently wokring on **TryHackMe - SOC** and **A+** certification
 
 ---
 
