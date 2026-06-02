@@ -1,18 +1,15 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi, I'm Janelle 👋</h1>
 
 <p align="center">
   🎓 IT Graduate | 💻 Cybersecurity & Data Analytics Enthusiast | 🌟 Open to Work
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 🎓 **Bachelor’s in IT – Concentration in Cyber Operations Security** 
-- 🔍 Passionate about **SOC Analyst**, **Cybersecurity**, and **IT Support**
-- 📊 Interested in **IT roles, security investigations, and data-driven problem solving**
-- 🌱 Currently working on **S+** certification
+Hi, I’m @Janelleet
+I’m interested in IT, cybersecurity, service and operations, and digital forensics.
+I’m currently studying for Security+
+📲 How to reach me https://janelleet.github.io
+⚡ Fun fact: I like crime movies, cooking, and discovering new places.
 
 ---
 
