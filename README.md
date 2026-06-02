@@ -6,10 +6,10 @@
 
 ---
 Hi, I’m @Janelleet
-I’m interested in IT, cybersecurity, service and operations, and digital forensics.
-I’m currently studying for Security+
-📲 How to reach me https://janelleet.github.io
-⚡ Fun fact: I like crime movies, cooking, and discovering new places.
+<p I’m interested in IT, cybersecurity, service and operations, and digital forensics.</p>
+<p I’m currently studying for Security+. </p>
+<p 📲 How to reach me https://janelleet.github.io </p>
+<p ⚡ Fun fact: I like crime movies, cooking, and discovering new places. </p>
 ---
 
 ## 🛠 Skills & Tools
